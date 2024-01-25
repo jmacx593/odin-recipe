@@ -1,0 +1,18 @@
+.main{
+    background-color: beige;
+    background-size: cover;
+}
+.title-main, .container h1{
+color: black;
+text-align: center;
+text-decoration: underline;
+
+}
+.links{
+    color:aqua;
+
+}
+
+.container {
+
+}
